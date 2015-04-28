@@ -32,6 +32,18 @@
             android:name=".develop.apiguides.appcomponents.activities.overviewscreen.MainOverviewScreenSample"
             android:label="@string/title_activity_main_overview_screen_sample" >
         </activity>
+        <activity
+            android:name=".develop.apiguides.appcomponents.services.services.MainServiceSample"
+            android:label="@string/title_activity_main_service_sample" >
+        </activity>
+        <activity
+            android:name=".develop.apiguides.appcomponents.services.boundservices.MainBoundServiceSample"
+            android:label="@string/title_activity_main_bound_service_sample" >
+        </activity>
+        <activity
+            android:name=".develop.apiguides.appcomponents.services.aidl.MainAIDLSample"
+            android:label="@string/title_activity_main_aidlsample" >
+        </activity>
     </application>
 
 </manifest>

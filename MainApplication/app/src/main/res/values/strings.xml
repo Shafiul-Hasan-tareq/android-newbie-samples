@@ -7,4 +7,7 @@
     <string name="title_activity_main_fragments_sample">Main Fragments Sample</string>
     <string name="title_activity_main_loader_sample">Main Loader Sample</string>
     <string name="title_activity_main_overview_screen_sample">Main Overview Screen Sample</string>
+    <string name="title_activity_main_service_sample">Main Service Sample</string>
+    <string name="title_activity_main_bound_service_sample">Main Bound Service Sample</string>
+    <string name="title_activity_main_aidlsample">Main AIDL Sample</string>
 </resources>
