@@ -1,10 +1,10 @@
-package com.android.mainapplication;
+package com.android.developer;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.content.Intent;
 
-import com.android.mainapplication.activities.MainActivitySample;
+import com.android.developer.develop.apiguides.appcomponents.activities.activities.MainActivitySample;
 
 
 public class LauncherActivity extends Activity {

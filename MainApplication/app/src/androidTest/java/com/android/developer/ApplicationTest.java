@@ -1,4 +1,4 @@
-package com.android.mainapplication;
+package com.android.developer;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

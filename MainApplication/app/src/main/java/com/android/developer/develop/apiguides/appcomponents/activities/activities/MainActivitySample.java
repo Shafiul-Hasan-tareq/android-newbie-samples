@@ -1,11 +1,9 @@
-package com.android.mainapplication.activities;
+package com.android.developer.develop.apiguides.appcomponents.activities.activities;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 
-import com.android.mainapplication.R;
+import com.android.developer.R;
 
 public class MainActivitySample extends Activity {
 
